@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ObjectDetection</string>
+    <string name="perform_object_detection">Perform Object Detection</string>
+    <string name="input_image">Input Image</string>
+    <string name="output_image">Output Image</string>
+    <string name="textview1">Input image:</string>
+    <string name="about">About</string>
+    <string name="error_loading_camera">Error loading camera</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_close">Close</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_about_title">About</string>
+    <string name="dialog_model_info_title">Model Information</string>
+    <string name="menu_about">About</string>
+    <string name="menu_model_info">Model Info</string>
+</resources>
